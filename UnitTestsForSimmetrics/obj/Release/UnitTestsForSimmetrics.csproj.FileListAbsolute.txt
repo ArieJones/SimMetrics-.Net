@@ -1,0 +1,10 @@
+D:\Source\simMettrics\UnitTestsForSimmetrics\obj\Release\UnitTestsForSimmetrics.csprojResolveAssemblyReference.cache
+D:\Source\simMettrics\UnitTestsForSimmetrics\bin\Release\UnitTestsForSimmetrics.dll.config
+D:\Source\simMettrics\UnitTestsForSimmetrics\bin\Release\UnitTestsForSimmetrics.dll
+D:\Source\simMettrics\UnitTestsForSimmetrics\bin\Release\UnitTestsForSimmetrics.pdb
+D:\Source\simMettrics\UnitTestsForSimmetrics\bin\Release\nunit.framework.dll
+D:\Source\simMettrics\UnitTestsForSimmetrics\bin\Release\SimMetrics.dll
+D:\Source\simMettrics\UnitTestsForSimmetrics\bin\Release\SimMetrics.xml
+D:\Source\simMettrics\UnitTestsForSimmetrics\bin\Release\nunit.framework.xml
+D:\Source\simMettrics\UnitTestsForSimmetrics\obj\Release\UnitTestsForSimmetrics.dll
+D:\Source\simMettrics\UnitTestsForSimmetrics\obj\Release\UnitTestsForSimmetrics.pdb

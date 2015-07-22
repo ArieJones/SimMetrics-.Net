@@ -1,0 +1,6 @@
+D:\Source\simMettrics\SimMetrics\bin\Release\SimMetrics.XML
+D:\Source\simMettrics\SimMetrics\bin\Release\SimMetrics.dll
+D:\Source\simMettrics\SimMetrics\obj\Release\SimMetrics.csprojResolveAssemblyReference.cache
+D:\Source\simMettrics\SimMetrics\obj\Release\SimMetrics.dll
+D:\Source\simMettrics\SimMetrics\bin\Release\nunit.framework.dll
+D:\Source\simMettrics\SimMetrics\bin\Release\nunit.framework.xml
